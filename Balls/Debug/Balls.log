@@ -1,0 +1,30 @@
+﻿  Source.cpp
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Balls\Balls\Source.cpp(22,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Balls\Balls\Source.cpp(22,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Balls\Balls\Source.cpp(63,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ACCESSO RAPIDO\Informatica\OpenGL\Balls\Balls\Source.cpp(64,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Balls.vcxproj -> D:\ACCESSO RAPIDO\Informatica\OpenGL\Balls\Debug\Balls.exe
